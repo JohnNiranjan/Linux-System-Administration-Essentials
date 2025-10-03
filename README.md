@@ -1,4 +1,6 @@
 # Linux-System-Administration-Essentials
+Demonstrating core sysadmin tasks such as managing users, setting up a secure file system, and controlling system services.
+
 OS Installation and Configuration: Installation and basic setup of multiple Linux distributions (Ubuntu, Kali, Fedora) in a virtualized environment.
 
 
